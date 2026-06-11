@@ -35,7 +35,7 @@ export const about = {
   body: "Hi, I'm Joshua Fernandes, a front-end enthusiast and aspiring product designer based in India. I enjoy designing and building digital experiences that solve real-world problems. My interests lie in UI/UX design, user flows, wireframing, and creating intuitive interfaces that balance functionality with aesthetics. Alongside design, I'm passionate about front-end development and bringing ideas to life on the web. I'm continuously learning, exploring new technologies, and refining my skills in both design and development.",
   ctaHeading: "Let's build something exceptional.",
   ctaBody:
-    "I'm currently available for small UI/U projects. Response time within a day",
+    "I'm currently available for small UI/UX projects. Response time within a day",
 };
 
 // ============================================================================
