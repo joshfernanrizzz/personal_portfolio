@@ -32,10 +32,10 @@ export const profile = {
 export const about = {
   // Your photo — paste a URL or use "/me.jpg" from the public folder.
   portrait: "assets/home/personal.png",
-  body: "I, Joshua Fernandes am a student designer and front-end enthusiast based in India. Currently, I'm focused on designing and developing apps that solve problems. I'm experienced with UI/UX design, creating user flows and screens and also with tools like Canva for designing posts for social media.",
+  body: "Hi, I'm Joshua Fernandes, a front-end enthusiast and aspiring product designer based in India. I enjoy designing and building digital experiences that solve real-world problems. My interests lie in UI/UX design, user flows, wireframing, and creating intuitive interfaces that balance functionality with aesthetics. Alongside design, I'm passionate about front-end development and bringing ideas to life on the web. I'm continuously learning, exploring new technologies, and refining my skills in both design and development.",
   ctaHeading: "Let's build something exceptional.",
   ctaBody:
-    "I'm currently available for freelance projects and collaborative opportunities. If you have a problem to solve, let's talk.",
+    "I'm currently available for small UI/U projects. Response time within a day",
 };
 
 // ============================================================================

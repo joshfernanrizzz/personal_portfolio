@@ -53,10 +53,6 @@ export default function Nav() {
         </Link>
 
         <div className="flex items-center gap-8">
-          <span className="hidden md:inline-flex items-center gap-2 text-[0.72rem] font-mono text-muted">
-            <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            Available for work
-          </span>
           <ul className="flex items-center gap-6">
             {links.map((l) => (
               <li key={l.label}>
